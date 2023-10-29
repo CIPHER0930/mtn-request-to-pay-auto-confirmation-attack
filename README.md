@@ -35,6 +35,7 @@ If you have any feedback or suggestions, please feel free to create an issue or 
 License
 
 This report is licensed under the MIT License.
+Author : SHIELD SHIELD
 
 Conclusion
 This attack is a serious threat to MTN Mobile Money customers. MTN should take steps to educate customers about the attack and implement additional security measures for the Request to Pay feature.
